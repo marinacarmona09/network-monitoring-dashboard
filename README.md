@@ -27,7 +27,7 @@ Geração dos dados:
 Esse processo permite criar um conjunto de dados para demonstrar visualizações e métricas de monitoramento de rede no dashboard.
 
 ## Preview do Dashboard
-![dashboard](dashboard.png) 
+![dashboard](imagem_dashboard.png) 
 
 ## Tecnologias utilizadas
 
@@ -35,8 +35,8 @@ Esse processo permite criar um conjunto de dados para demonstrar visualizações
 - Pandas (manipulação de dados)
 - Streamlit (criação do dashboard)
 - Plotly (visualização interativa)
-- Random (simulação de variáveis de rede)
-- Datetime / Timedelta (geração da linha temporal do dataset)
+- Random (simulação)
+- Datetime / Timedelta (geração da linha temporal)
 
 ## Como executar
 
@@ -53,4 +53,4 @@ streamlit run dashboard.py
 
 - Geração de dataset simulado
 - Dashboard interativo
-- Indicadores de desempenho da rede
+- Desempenho da rede
