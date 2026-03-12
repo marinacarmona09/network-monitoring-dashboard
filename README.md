@@ -26,6 +26,9 @@ Geração dos dados:
 
 Esse processo permite criar um conjunto de dados para demonstrar visualizações e métricas de monitoramento de rede no dashboard.
 
+## Preview do Dashboard
+![dashboard](dashboard.png) 
+
 ## Tecnologias utilizadas
 
 - Python
